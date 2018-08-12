@@ -1,3 +1,3 @@
 # Stackbot
 
-![alt-text-1](Images/list_comp.png "List Comprehensions")
+![alt-text-1](Images/tuple_sorting.png "Tuple Sorting")
