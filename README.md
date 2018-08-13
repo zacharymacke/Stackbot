@@ -1,6 +1,6 @@
 # Stackbot
 
-Stackbot is a Python question/answer terminal assistant. The goal was to create a tool which could use a database of questions and use NLP to read in the user's input and relay those similar questions and answers from stack overflow to the user. 
+Stackbot is a Python question/answer terminal assistant. The goal was to create a tool which could use a database of questions and use NLP to read in the user's input and relay those similar questions and answers from Stack Overflow to the user. 
 
 The data was pulled from Google Big Query's public stackoverflow dataset and I have attached the queries I used to develop the datasets. I narrowed it down to just Python related questions to save space locally and time while training my model. Whittling it down to just Python questions reduced the overall storage footprint from ~19.0gb to ~1.7gb. The cleaned-datasets and models which I trained can be downloaded [here](https://drive.google.com/open?id=19JJ7XgkrGoFU80n0zLHwv-VOKniZJhFY).
 
