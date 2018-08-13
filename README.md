@@ -7,6 +7,6 @@ The data was pulled from Google Big Query's public stackoverflow dataset and I h
 To use Stackbot simply download everything locally and install the dependencies; I recommend using Jupyter Notebook for ease of use. Make sure you using **Gensim 3.5.0**. If you are using Gensim 3.4.0 or lower, you will experience much worse predictions as there is a problem with Gensim 3.4.0. 
 
 
-Here is a screenshot example of Stackbot in action. It can be asked anything Python related and you can ask as many questions as you want in one session. 
+Here is a screenshot example of Stackbot in action. It can be asked anything Python related and you can ask as many questions as you want in one session. It will return the highest rated answer to each question you choose.
 
 ![alt-text-1](Images/tuple_sorting.png "Tuple Sorting")
